@@ -1,0 +1,23 @@
+{
+  "name": "icp123-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "resizeimg": "node ./scripts/resizeimg.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icpfans-xyz/icp123-assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icpfans-xyz/icp123-assets/issues"
+  },
+  "homepage": "https://github.com/icpfans-xyz/icp123-assets#readme",
+  "dependencies": {
+    "image-size": "^1.0.1",
+    "resize-img": "^2.0.0"
+  }
+}
