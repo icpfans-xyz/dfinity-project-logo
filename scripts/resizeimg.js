@@ -7,7 +7,7 @@ const resizeImg = require('resize-img')
 const RESIZE_WIDTH = 128
 const RESIZE_HEIGHT = 128
 
-const targetFolder = 'influencer' // project
+const targetFolder = 'project' // project
 
 const projectImgDirPath = path.resolve(__dirname, `../${targetFolder}/`)
 
